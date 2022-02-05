@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var reverseList = function(head) {
   if (!head) return null
   //声明变量记录 pre、cur
@@ -22,3 +23,20 @@ var reverseList = function(head) {
     }
     return pre;
   };
+=======
+/**
+ * @param {number} n
+ * @return {boolean}
+ *
+ * 解题思路
+ * */
+var reverseList = function(head) {
+    if (head == null || head.next == null) {
+        return head;
+    }
+    const newHead = reverseList(head.next);
+    head.next.next = head;
+    head.next = null;
+    return newHead;
+}
+>>>>>>> c9d705cf90fdb035a45a5ee07880c36efa552323
