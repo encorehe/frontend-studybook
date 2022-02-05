@@ -28,4 +28,10 @@
 
 - [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) [掘金](https://juejin.cn/post/7037541459381190686/)
 
-- [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) [掘金](https://juejin.cn/post/7037569950126440456//)
+- [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) [掘金](https://juejin.cn/post/7037569950126440456/)
+
+- [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs) [掘金](https://juejin.cn/post/7061220442350026788/)
+
+- [旋转链表](https://leetcode-cn.com/problems/rotate-list) [掘金](https://juejin.cn/post/7061223447770169351/)
+
+- [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) [掘金](https://juejin.cn/post/7061223447770169351/)
